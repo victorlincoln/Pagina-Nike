@@ -1,3 +1,3 @@
 # Pagina-Nike
-. Este projeto é uma página de produtos da marca nike.
+. Este projeto consiste em uma página de produtos da marca nike.
 
